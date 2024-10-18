@@ -1,1 +1,2 @@
 # This repository is a reference to my daily leetcode exercise work.
+This repository contains my daily solutions to LeetCode problems. Each day, I tackle a new coding challenge to improve my problem-solving skills and deepen my understanding of algorithms and data structures. The solutions are written in TypeScript, and I aim to cover a wide range of topics such as arrays, strings, dynamic programming, sorting algorithms, and more.
